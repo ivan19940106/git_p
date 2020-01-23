@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: courier new,serif;
 }
+html, body {
+    width: 100px;
+    height: 100px;
+    background-color: #69B0AC;
+}
 h1 {
     margin: 100px;
     text-transform: capitalize;
