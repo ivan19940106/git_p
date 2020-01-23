@@ -1,0 +1,26 @@
+html, body {
+    background-color: #ffdfdf;
+}
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid #000; */
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.title {
+    color: #f67280;
+    margin-top: 70px;
+}
+.carusel {
+    margin-top: 30px;
+    height: 700px;
+    overflow: hidden;
+}
+.carusel img {
+    width: 500px;
+    margin: 0 auto;
+}
